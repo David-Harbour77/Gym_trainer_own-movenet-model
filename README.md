@@ -19,7 +19,7 @@ Multi-frame human pose estimation in complicated situations is challenging. Alth
 #### Mediepipe : movenet
 
 <p align='center'>
-	<img src="./mediapipe vs movenet.gif" style="zoom:100%;" />
+	<img src="./mediapipe vs movenet.gif" style="zoom:150%;" />
 </p>
 
 
