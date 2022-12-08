@@ -1,6 +1,5 @@
 # Gym_trainer_own-movenet-model
 
-# Deep Dual Consecutive Network for Human Pose Estimation （CVPR2021）
 ## Introduction
 
 This is the official code of **Deep Dual Consecutive Network for Human Pose Estimation.**
@@ -15,7 +14,7 @@ Multi-frame human pose estimation in complicated situations is challenging. Alth
 
 ## Visual Results
 
- <video id="video" controls="" preload="none">     <source id="mp4" src="docs/DCPoseShow.mp4" type="video/mp4"> </video>
+ <video id="video" controls="" preload="none">     <source id="mp4" src="exe-count(improve).mp4" type="video/mp4"> </video>
 
 #### On PoseTrack
 
