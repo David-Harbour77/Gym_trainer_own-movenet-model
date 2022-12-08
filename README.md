@@ -16,9 +16,17 @@ Multi-frame human pose estimation in complicated situations is challenging. Alth
 
  <video id="video" controls="" preload="none">     <source id="mp4" src="exe-count(improve).mp4" type="video/mp4"> </video>
 
-#### On PoseTrack
+#### Mediepipe : movenet
 
 
 <p align='center'>
 	<img src="./exe-count(improve).gif" style="zoom:100%;" />
 </p>
+
+#### On PoseTrack
+
+
+<p align='center'>
+	<img src="./mediapipe vs movenet.gif" style="zoom:100%;" />
+</p>
+
