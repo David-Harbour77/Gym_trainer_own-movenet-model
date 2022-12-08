@@ -2,6 +2,6 @@
 
 <div align="center">
     <a href="./">
-        <img src="./exe-count(improve).mp4" width="39%"/>
+        <img src="./exe-count(improve).mp4" width="49%"/>
     </a>
 </div>
