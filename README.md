@@ -10,7 +10,6 @@ Multi-frame human pose estimation in complicated situations is challenging. Alth
 ![](docs/images/Pipeline.png)
 
 
-
 ## Visual Results
 
  <video id="video" controls="" preload="none">     <source id="mp4" src="exe-count(improve).mp4" type="video/mp4"> </video>
